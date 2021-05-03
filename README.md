@@ -1,8 +1,5 @@
 ### Lino, Arthur - 16 Anos
 
-<!--
-**ArthurLino/ArthurLino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Um apreciador da arte de programar.
 
 - Iniciei na programação à pouco tempo.
