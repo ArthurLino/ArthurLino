@@ -8,5 +8,5 @@ HTML, CSS(SASS), JS(Um pouco de React.js).
 Estou sempre procurando maneiras de aprimorar meus conhecimentos de maneira prática. 
 Ainda me familiarizando com Git e Github...
 
-"_...A esselência da sabedoria é que ela da vida ao seu possuidor._"
+"_...A excelência da sabedoria é que ela da vida ao seu possuidor._"
 -->
