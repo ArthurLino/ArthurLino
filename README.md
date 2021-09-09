@@ -1,7 +1,7 @@
 ### Lino, Arthur - 16 Anos
 
-- Tentando ser um (bom) Programador.
-
+- Tentando ser um (bom) Programador;
+- Escassez de tempo = Poucos projetos no Github;
 - Cursando o segundo ano do ensino médio.
 
 Iniciei na programação à pouco tempo.
