@@ -1,10 +1,12 @@
 ### Lino, Arthur - 16 Anos
 
-Um apreciador da arte de programar.
+- Tentando ser um (bom) Programador.
+
+- Cursando o segundo ano do ensino médio.
 
 Iniciei na programação à pouco tempo.
 Em constante aprendizado. Tenho estudado algumas linguagens diferentes, mas meu foco tem sido para o Desenvolvimento Front-end.
-HTML, CSS(SASS), JS(Um pouco de React.js).
+HTML, CSS(SASS), JS(Um pouco de React.js) e, além disso, tenho praticado UI Design.
 Estou sempre procurando maneiras de aprimorar meus conhecimentos de maneira prática. 
 Ainda me familiarizando com Git e Github...
 
