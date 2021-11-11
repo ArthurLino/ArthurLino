@@ -1,4 +1,4 @@
-### Lino, Arthur - 16 Anos
+### Lino, Arthur - 17 Anos
 
 - Tentando ser um (bom) Programador;
 - Escassez de tempo = Poucos projetos no Github;
