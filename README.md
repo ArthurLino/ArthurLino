@@ -24,5 +24,5 @@
 
 ##### Contatos:
 [![Linkedin: ArthurLino](https://img.shields.io/badge/-ArthurLino-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-lino-silva-371a10206/)](https://www.linkedin.com/in/arthur-lino-silva-371a10206/)
-[![Gmail Badge](https://img.shields.io/badge/-arthur.sslino@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=#D93025&link=mailto:arthur.sslino@gmail.com)](mailto:arthur.sslino@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-arthur.sslino@gmail.com?style=flat-square&logo=Gmail&logoColor=#D93025&link=mailto:arthur.sslino@gmail.com)](mailto:arthur.sslino@gmail.com)
 [![GitHub ArthurLino](https://img.shields.io/github/followers/ArthurLino?label=follow&style=social)](https://github.com/ArthurLino)
