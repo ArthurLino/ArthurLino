@@ -31,6 +31,6 @@
 
 <br/>
 
-_"Porque a sabedoria serve de sombra, como de sombra serve o dinheiro; mas a excelência da sabedoria é que ela dá vida ao seu possuidor."_
+_"For wisdom is a defence, and money is a defence: but the excellency of knowledge is, that wisdom giveth life to them that have it."_
 <br/>
 _*****Ecclesiastes 7:12*****_
