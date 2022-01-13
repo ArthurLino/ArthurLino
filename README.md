@@ -30,4 +30,4 @@
 <br/>
 
 _Porque a sabedoria serve de sombra, como de sombra serve o dinheiro; mas a excelência da sabedoria é que ela dá vida ao seu possuidor._
-_*****Ecclesiastes 7:12******_
+_*****Ecclesiastes 7:12*****_
