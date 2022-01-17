@@ -2,7 +2,7 @@
 
 <h3> About me </h3>
 
-- 🤔 &nbsp; Studying, doing some work here, some work there, and working at some personal projects
+- 🤔 &nbsp; Studying, doing some work here, some work there, and working on some personal projects
 - 🎓 &nbsp; Studying at <a href="https://etevav.com.br/new1/">ETECVAV</a> ( System Development / High School )
 - 🌱 &nbsp; Learning React and improving Python / JS skills while i take some courses
 
