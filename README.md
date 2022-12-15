@@ -2,17 +2,18 @@
 
 <h3> About me </h3>
 
-- 🤔 &nbsp; Studying, working on some design jobs mainly and on some personal projects
-- 🎓 &nbsp; Studying at <a href="https://etevav.com.br/new1/">ETECVAV</a> ( System Development / High School )
-- 🌱 &nbsp; Learning React and improving Python / JS skills while i take some courses
+- 🤔 &nbsp; Working on some design jobs and personal projects
+- 🎓 &nbsp; Formerly student at <a href="https://etevav.com.br/new1/">ETECVAV</a> ( System Development / High School )
+- 🌱 &nbsp; Learning React and improving Python / JS skills
 
 <br/>
 
 <h3> Skills </h3>
 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![ReactJS](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=yellow)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
