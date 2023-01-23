@@ -2,6 +2,7 @@
 
 <h3> About me </h3>
 
+- 🔨 &nbsp; Coding python for 100 days now
 - 🤔 &nbsp; Working on some freelance jobs and personal projects
 - 🎓 &nbsp; Formerly student at <a href="https://etevav.com.br/new1/">ETECVAV</a> ( System Development / High School )
 - 🌱 &nbsp; Coding React / Python
