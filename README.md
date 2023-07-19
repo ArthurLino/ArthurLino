@@ -2,7 +2,7 @@
 
 <h3> About me </h3>
 
-- 🤔 &nbsp; Working as freelancer, studying and building some personal projects as well
+- 🤔 &nbsp; Working as admin. assistant and studying to build a better version of myself
 - 🎓 &nbsp; Formerly student at <a href="https://etevav.com.br/new1/">ETECVAV</a> ( System Development Technician / High School )
 - 🌱 &nbsp; Improving React / Python
 
