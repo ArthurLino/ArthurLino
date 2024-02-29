@@ -1,10 +1,11 @@
-<h1> Lino, Arthur - 18 yo </h1>
+<h1> Lino, Arthur - 19 yo </h1>
 
 <h3> About me </h3>
 
 - 🤔 &nbsp; Working as admin. assistant and studying to build a better version of myself
-- 🎓 &nbsp; Formerly student at <a href="https://etevav.com.br/new1/">ETECVAV</a> ( System Development Technician / High School )
-- 🌱 &nbsp; Improving React / Python
+- 🎓 &nbsp; Formerly student at <a href="https://etevav.com.br/new1/">ETECVAV</a> ( System Development Technician / High School ). Currently starting my bachelor's degree in Computer Science.
+- 🌱 &nbsp; Improving React / Python.
+- 🧠 Always curious about how processes could be improved. Always passionate about studying it.
 
 <br/>
 
