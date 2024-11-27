@@ -2,9 +2,7 @@
 
 <h3> About me </h3>
 
-- 🤔 &nbsp; Working as admin. assistant and studying to build a better version of myself
 - 🎓 &nbsp; Formerly student at <a href="https://etevav.com.br/new1/">ETECVAV</a> ( System Development Technician / High School ). Currently starting my bachelor's degree in Computer Science at <a href="https://anchieta.br/">UNIANCHIETA</a>.
-- 🌱 &nbsp; Currently improving Python, Powershell, AutoLISP and VB skills.
 - 💡 &nbsp; Always curious about how processes could be improved.
 
 <br/>
